@@ -1,0 +1,35 @@
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+python-multipart==0.0.6
+pydantic==2.5.3
+pydantic-settings==2.1.0
+python-dotenv==1.0.0
+
+# LangChain and AI
+langchain>=0.1.0
+langchain-community>=0.0.10
+langchain-huggingface>=0.0.1
+
+# Vector Database
+chromadb>=0.4.0
+
+# Document Processing
+pypdf>=3.0.0
+python-docx>=1.0.0
+openpyxl>=3.0.0
+pandas>=2.0.0
+
+# Hugging Face
+huggingface-hub>=0.23.0
+sentence-transformers>=2.3.0
+transformers>=4.30.0
+torch>=2.2.0
+
+# API and CORS
+fastapi-cors==0.0.6
+
+# Utilities
+aiofiles==23.2.1
+
+# Additional dependencies
+pyjwt>=2.8.0
