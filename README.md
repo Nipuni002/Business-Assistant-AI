@@ -37,8 +37,6 @@
 - [Usage](#-usage)
 - [API Documentation](#-api-documentation)
 - [Project Structure](#-project-structure)
-- [Contributing](#-contributing)
-- [License](#-license)
 
 ## ✨ Features
 
