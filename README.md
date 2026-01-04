@@ -401,7 +401,7 @@ npm run lint
 
 ## 👥 Authors
 
-- Your Name - Nipuni Perera
+- Nipuni Perera
 
 ## 🙏 Acknowledgments
 
